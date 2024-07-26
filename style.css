@@ -1,0 +1,11 @@
+.texto {
+    display: flex;
+}
+
+.TextoMercado {
+    font-size: 28px;
+}
+
+.imagemmercado {
+    width: 65%;
+}
